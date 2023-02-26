@@ -1,1 +1,19 @@
+.container1{
+    border: 1px solid blue;
+    width: 200px;
+}
+.container2{
+    border: 1px solid blue;
+    width: 200px;
+}
+.container4{
+    width: 200px;
+    height: 8px;
+    
+}
+.progress{
+    width: 80%;
+    height: 100%;
+    background-color: blue;
 
+}
